@@ -9,7 +9,7 @@ Import math function.
 ### Step 2: 
 Assign the values of point 1 and point 2 whose distance is to be calculated.
 ### Step 3: 
-Substitute the values in the distance formula  ![formula](/formula.jpg)![formula](https://user-images.githubusercontent.com/93427086/144247451-d69ff7e0-afa9-4e21-96d3-f7bae2f11cf0.JPG)
+Substitute the values in the distance formula  ![formula](/formula.jpg)
 
 ### Step 4: 
 Print the coding to get the answer.
